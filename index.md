@@ -1,4 +1,4 @@
-```lisp
+```Lisp
 '(:name 'Lispegistus
   :title "Space Captain/Captain of the Void"
   :attributes '("Mercenary Coder"
